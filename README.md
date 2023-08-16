@@ -77,3 +77,7 @@ INSERT INTO roles(name) VALUES('ROLE_ADMIN');
 - Khi đăng nhập thì ta sẽ sử dụng router api của @PostMapping("/signin") và tham số chuyền vào nó là LoginRequest với username và password và nó sẽ trả về token với tương ứng với tài khoảng mà bạn đăng nhập.
 
 - Test thử các api bên phần testController và xem nó hoạt động như nào khi có token và khi không có token.
+
+# Mọi thắc mắc về code xin vui lòng đọc tài đây
+
+- https://www.bezkoder.com/spring-boot-jwt-authentication/
