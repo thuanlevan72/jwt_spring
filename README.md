@@ -36,10 +36,6 @@
 
 # e. Sử dụng với PostMan
 
-- đăng ký
-
-* sử dụng router signup trong AuthController
-
 ## Chạy các câu lệnh insert SQL sau để thêm sẵn quyền mặc định
 
 ```
